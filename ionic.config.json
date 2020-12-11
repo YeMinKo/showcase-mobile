@@ -1,0 +1,7 @@
+{
+  "name": "showcase-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
